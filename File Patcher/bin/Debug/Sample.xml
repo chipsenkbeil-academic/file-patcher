@@ -1,0 +1,12 @@
+<patcher>
+ <version equal_to="1.0.0" update_to="1.1.0">
+  <execute src="C:/Windows/Notepad.exe" wait="true"/>
+  <download src="http://www.dualsolace.com/Downloads/POPS Installer.zip" dest="$PATCH_ROOT/POPS Installer.zip" />
+  <download src="http://www.dualsolace.com/Downloads/MouseApp.zip" dest="$PATCH_ROOT/MouseApp.zip" />
+  <download src="http://www.dualsolace.com/Downloads/Guardia_Dungeon.bmp" dest="$PATCH_ROOT/Guardia_Dungeon.bmp" />
+  <decompress src="$PATCH_ROOT/POPS Installer.zip" dest="$PATCH_ROOT" />
+  <decompress src="$PATCH_ROOT/MouseApp.zip" dest="$PATCH_ROOT" />
+  <move src="$PATCH_ROOT/MouseApp.zip" dest="$PATCH_ROOT/Test/MouseApp.zip" />
+  <delete src="$PATCH_ROOT/POPS Installer.zip" />
+ </version>
+</patcher>

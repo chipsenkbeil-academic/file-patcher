@@ -1,0 +1,4 @@
+<patch_info>
+ <version>1.1.0</version>
+ <patch_url>http://www.dualsolace.com/Downloads/patch.xml</patch_url>
+</patch_info>

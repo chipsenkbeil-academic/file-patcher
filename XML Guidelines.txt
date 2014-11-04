@@ -1,0 +1,79 @@
+The patcher currently provides/requires the following syntax:
+
+=============================================================
+Tag: Patcher
+Use: Begins and ends a patcher file.
+Attributes: None
+Example:
+<patcher>
+ execute commands
+</patcher>
+=============================================================
+Tag: Version
+Use: Indicates a block of commands when moving from one
+     to another.
+Attributes: equal_to ... This update occurs ONLY if the
+                         current version is equal to this
+            update_to ... After the update, the version is
+                          changed to this
+Example:
+<version equal_to="1.0.0" update_to="1.1.0">
+ execute commands
+</version>
+=============================================================
+Tag: Execute
+Use: Initializes an executable file.
+Attributes: src ... Specifies the location of the executable
+            wait [optional] ... Whether or not the patcher
+            default = true      should wait for the
+                                executable to terminate
+Example:
+<execute src="C:/Windows/Notepad.exe" wait="true"/>
+=============================================================
+Tag: Move
+Use: Moves a file from one location to another.
+Attributes: src ... The location of the file to move
+            dest ... The new location for the file
+Example:
+<move src="C:\MyFile.txt" dest="C:\NewFolder\MyFile.txt"/>
+=============================================================
+Tag: Delete
+Use: Deletes a file.
+Attributes: src ... The location of the file to delete
+Example:
+<delete src="C:\MyFile.txt"/>
+=============================================================
+Tag: Download
+Use: Downloads and stores a file from the Internet.
+Attributes: src ... The URL address of the file to download
+            dest ... The local address to save the file
+Example:
+<download src="http://www.mysite.com/text.txt" dest="C:\text.txt"/>
+=============================================================
+Tag: Decompress
+Use: Decompresses a file (supports ZIP format).
+Attributes: src ... The location of the archive to decompress
+            dest ... The location where the contents of the
+                     archive will be placed
+            pass [optional] ... The password needed for decompression
+            default = ""
+            delete [optional] ... Whether to delete the archive or
+            default = false       not after decompression
+Example:
+<decompress src="C:\MyArchive.zip" dest="C:\" pass="MyPassword" delete="true"/>
+=============================================================
+
+
+
+
+
+
+The patcher currently provides the following filters:
+
+=============================================================
+Filter: $PATCH_ROOT
+Use: Provides a generic way to target the directory where
+     the patcher executable is located.
+Example:
+<download src="http://www.mysite.com/text.txt" dest="$PATCH_ROOT/text.txt"/>
+=============================================================

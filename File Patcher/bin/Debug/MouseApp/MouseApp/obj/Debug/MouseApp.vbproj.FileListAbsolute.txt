@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\Desktop\MouseApp\MouseApp\bin\Debug\MouseApp.exe
+C:\Documents and Settings\Administrator\Desktop\MouseApp\MouseApp\bin\Debug\MouseApp.pdb
+C:\Documents and Settings\Administrator\Desktop\MouseApp\MouseApp\bin\Debug\MouseApp.xml
+C:\Documents and Settings\Administrator\Desktop\MouseApp\MouseApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\MouseApp\MouseApp\obj\Debug\MouseApp.frmMain.resources
+C:\Documents and Settings\Administrator\Desktop\MouseApp\MouseApp\obj\Debug\MouseApp.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\MouseApp\MouseApp\obj\Debug\MouseApp.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\MouseApp\MouseApp\obj\Debug\MouseApp.exe
+C:\Documents and Settings\Administrator\Desktop\MouseApp\MouseApp\obj\Debug\MouseApp.xml
+C:\Documents and Settings\Administrator\Desktop\MouseApp\MouseApp\obj\Debug\MouseApp.pdb

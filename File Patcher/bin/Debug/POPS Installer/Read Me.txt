@@ -1,0 +1,61 @@
+Full Title: SM POPS Installer
+Version: 1.0.0.0 (really just 1.0.0)
+Requirements: .NET Framework 3.5 (Service Pack 1 suggested)
+Supported: Windows Server 2003; Windows Server 2008; Windows Vista; Windows XP (according to Microsoft)
+Programmer: smchronos
+
+Task: Allow easy installation of the popsloader system components onto PSP custom firmware.
+
+What It Does:
+-Creates seplugins folder if it does not exist.
+-Creates popsloader folder in seplugins folder if it does not exist.
+-Copies popsloader.prx to seplugins folder (overwrites existing file).
+-Copies or Edits pops.txt in the seplugins folder to include a reference to the popsloader.prx.
+ -ms0:/SEPLUGINS/popsloader.prx
+-Copies daxheaparea.prx to popsloader folder (overwrites existing file).
+-Copies idcanager_old.prx to popsloader folder (overwrites existing file).
+-Copies impose.prx file of 4.01 firmware to popsloader folder (overwrites existing file).
+ -Placed as instructed by Dark_Alex in the popsloader wiki (5.00 M33 firware).
+ -Will cause problems for older PSP firmwares. Delete if firmware not 5.00 M33.
+-Copies specific prx files depending on firmware versions selected.
+ -3.00-3.03:[popsman.prx;meaudio.prx;pops.prx;pafmini.prx]
+ -3.10-3.30:[popsman.prx;pops.prx;pafmini.prx]
+ -3.40-4.01:[popsman.prx;pops.prx;pafmini.prx;libpspvmc.prx]
+
+Extra Features:
+-Displays all removeable drives on startup.
+-Allows manual input of drives.
+-Displays selected drive's total space (in kilobytes).
+-Displays selected drive's total free space (in kilobytes).
+-Displays required space for POPS Loader material (in kilobytes).
+
+Version History:
+[1.0.0]
+-Created copy system.
+-Added numerous POPS files.
+-Created generic Windows GUI.
+-Wrote "Read Me.txt" file.
+
+Bugs:
+[1.0.0]
+-{FIXED} Attempting to copy files to a drive with 0 space provides an error (error checking not working).
+ -Occurs for me (smchronos) with starup disk A:\ that appears to never be ready.
+
+Reason: Simply put, I found it annoying to dig around for all of those POPS prx files and add them.
+To me, it is much easier to just click and select the ones I want and then press GO! and it's done in a matter of seconds.
+So, I built this program (1.0.0) in a matter of five hours (on and off).
+Granted, it is still a little shaky, but it's getting there.
+I have tested the uploaded POPS files using this program, specifically with Vagrant Story and Grandia for the PSX.
+I have had no problems myself with uploaded files.
+I've done about as much bug testing as I can think of with my single computer.
+Please remember that I have only tested this on Windows XP.
+
+Contact:
+[Email]
+smchronos@dualsolace.com
+[MSN]
+sm_chronos@yahoo.com
+[AIM]
+smChrono
+[Website]
+http://www.dualsolace.com

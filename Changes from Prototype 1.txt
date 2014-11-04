@@ -1,0 +1,6 @@
+07/23/2010
+=> Changed Non-generic System.Collection.ArrayList to Generic System.Collection.Generic.List (FileDownloadManager.cs)
+=> Changed Non-generic System.Collection.ArrayList to Generic System.Collection.Generic.List (PatcherXMLReader.cs)
+=> Changed Non-generic System.Collection.Hashtable to Generic System.Collection.Generic.Dictionary (PatcherXMLReader.cs)
+=> Changed getWebClients function to return a read-only instance of the CustomWebClient collection (FileDownloadManager.cs)
+=> Placed classes inside the namespace File_Patcher

@@ -1,0 +1,18 @@
+c:\users\smchronos\documents\visual studio 2010\Projects\File Patcher\File Patcher\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\smchronos\documents\visual studio 2010\Projects\File Patcher\File Patcher\bin\Debug\File Patcher.exe
+c:\users\smchronos\documents\visual studio 2010\Projects\File Patcher\File Patcher\bin\Debug\File Patcher.pdb
+c:\users\smchronos\documents\visual studio 2010\Projects\File Patcher\File Patcher\obj\x86\Debug\File Patcher.exe
+c:\users\smchronos\documents\visual studio 2010\Projects\File Patcher\File Patcher\obj\x86\Debug\File Patcher.pdb
+C:\Users\smchronos\Documents\Visual Studio 2010\Projects\File Patcher\File Patcher\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\smchronos\documents\visual studio 2010\Projects\File Patcher\File Patcher\obj\x86\Debug\File_Patcher.MainWindow.resources
+C:\Users\smchronos\documents\visual studio 2010\Projects\File Patcher\File Patcher\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\smchronos\documents\visual studio 2010\Projects\File Patcher\File Patcher\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\smchronos\Documents\Visual Studio 2010\Projects\File Patcher Prototype 2\File Patcher\obj\x86\Debug\File Patcher.exe
+C:\Users\smchronos\Documents\Visual Studio 2010\Projects\File Patcher Prototype 2\File Patcher\obj\x86\Debug\File Patcher.pdb
+C:\Users\smchronos\Documents\Visual Studio 2010\Projects\File Patcher Prototype 2\File Patcher\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\smchronos\Documents\Visual Studio 2010\Projects\File Patcher Prototype 2\File Patcher\obj\x86\Debug\File_Patcher.MainWindow.resources
+C:\Users\smchronos\Documents\Visual Studio 2010\Projects\File Patcher Prototype 2\File Patcher\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\smchronos\Documents\Visual Studio 2010\Projects\File Patcher Prototype 2\File Patcher\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\smchronos\Documents\Visual Studio 2010\Projects\File Patcher Prototype 2\File Patcher\bin\Debug\File Patcher.exe
+C:\Users\smchronos\Documents\Visual Studio 2010\Projects\File Patcher Prototype 2\File Patcher\bin\Debug\File Patcher.pdb
+C:\Users\smchronos\Documents\Visual Studio 2010\Projects\File Patcher Prototype 2\File Patcher\bin\Debug\ICSharpCode.SharpZipLib.dll

@@ -1,0 +1,9 @@
+C:\Users\smchronos\documents\visual studio 2010\Projects\File Patcher\File Patcher\bin\Release\File Patcher.exe
+C:\Users\smchronos\documents\visual studio 2010\Projects\File Patcher\File Patcher\bin\Release\File Patcher.pdb
+C:\Users\smchronos\documents\visual studio 2010\Projects\File Patcher\File Patcher\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\smchronos\documents\visual studio 2010\Projects\File Patcher\File Patcher\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\smchronos\documents\visual studio 2010\Projects\File Patcher\File Patcher\obj\x86\Release\File_Patcher.MainWindow.resources
+C:\Users\smchronos\documents\visual studio 2010\Projects\File Patcher\File Patcher\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\smchronos\documents\visual studio 2010\Projects\File Patcher\File Patcher\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\smchronos\documents\visual studio 2010\Projects\File Patcher\File Patcher\obj\x86\Release\File Patcher.exe
+C:\Users\smchronos\documents\visual studio 2010\Projects\File Patcher\File Patcher\obj\x86\Release\File Patcher.pdb
